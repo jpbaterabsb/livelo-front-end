@@ -31,11 +31,13 @@ export const User = styled.div`
         font-size: 18px;
         font-weight: bold;
         line-height: 12px;
+        color: #ffffff;
       }
 
       .bio {
         font-size: 12px;
         font-style: italic;
+        color: #ffffff;
       }
     }
   }
