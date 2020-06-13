@@ -1,18 +1,7 @@
-# Livelo Front end
+### Used libraries/frameworks:
 
-## Varíaveis de ambiente
+- Vue.js
+- axios
+- Vuex
+- Vuetify
 
-- Deve ser criado na raiz do projeto um arquivo `.env` e deve ser preenchido conforme o modelo do `.env.example`.
-- REACT_APP_API_GITHUB do GitHub: https://api.github.com
-
-## Instalar dependências
-
-- Na raiz do projeto rode o comando `yarn` ou `npm i`.
-
-## Iniciar a aplicação
-
-- Para iniciar o projeto rode o comando `yarn start` ou `npm start`.
-
-## Link para acesso ao projeto
-
-- https://sistema-19b3d.firebaseapp.com/
