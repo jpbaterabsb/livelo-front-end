@@ -1,5 +1,17 @@
 {
   "projects": {
     "y": "sistema-19b3d"
+  },
+  "targets": {
+    "sistema-19b3d": {
+      "hosting": {
+        "react": [
+          "sistema-19b3d"
+        ],
+        "vue": [
+          "vue-livelo"
+        ]
+      }
+    }
   }
 }
