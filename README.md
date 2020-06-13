@@ -1,5 +1,7 @@
 # Livelo Front end
 
+Este desaio foi desenvolvido em vue.js e react.js, para acessar o código do react escolha a branch master e para acessar código do vue.js escolha a branch vue.
+
 ## Varíaveis de ambiente
 
 - Deve ser criado na raiz do projeto um arquivo `.env` e deve ser preenchido conforme o modelo do `.env.example`.
