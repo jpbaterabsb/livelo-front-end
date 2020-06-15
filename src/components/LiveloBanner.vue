@@ -10,6 +10,6 @@
 </template>
 <script>
 export default {
-  name: "GitHubBanner"
+  name: "LiveloBanner"
 };
 </script>
