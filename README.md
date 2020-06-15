@@ -8,7 +8,7 @@ Este desaio foi desenvolvido em vue.js e react.js, para acessar o código do rea
 
 ## Iniciar a aplicação
 
-- Para iniciar o projeto rode o comando `npm start`.
+- Para iniciar o projeto rode o comando `npm run serve`.
 
 ## Link para acesso ao projeto
 
